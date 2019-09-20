@@ -36,4 +36,4 @@ sudo ifconfig <interface> up
 Alternatively you can use ``airmon-ng`` from the [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) suite.
 
 ## License
-CDeauth is licensed under the MIT license, see [here](https://github.com/DustinBorn/CD/blob/master/LICENSE).
+CDeauth is licensed under the MIT license, see [here](https://github.com/DustinBorn/CDeauth/blob/master/LICENSE).
